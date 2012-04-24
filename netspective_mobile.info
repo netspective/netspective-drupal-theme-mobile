@@ -1,6 +1,6 @@
 ; $Id: nokia_mobile.info,v 1.1 2010/01/05 19:42:09 atrasatti Exp $
 name = netspective_mobile
-description = "Mobile optimized theme based on Nokia mobile web templates."
+description = "Netspective Mobile Theme"
 core = 6.x
 engine = phptemplate
 
